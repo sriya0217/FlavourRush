@@ -1,4 +1,4 @@
-# 🍔 FlavorRush — Online Food Ordering Web App
+# 🍔 FlavorRush — Online Food Ordering Web App.
 
 FlavorRush is a full-stack food ordering web application built with **Java (Servlets + JSP)**, **JSTL**, and **MySQL**, styled with a custom dark, restaurant-inspired UI. Users can browse restaurants, view menus, add items to a cart, check out, and track their order history.
 
